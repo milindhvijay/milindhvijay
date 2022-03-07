@@ -23,7 +23,7 @@
 
 - 📝 **Checkout a Beginner's Guide to WEB3 that I created: [WEB3](https://tangy-artichoke-dae.notion.site/Beginner-s-Guide-to-WEB3-194627c0b72b474d8248b18c1bb37fc0)**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="mailto:contact@milindhvijay.com" target="_blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-icon-mail-1008.png" alt="milindhvijay" width="35" /></a>
 &nbsp;&nbsp;
