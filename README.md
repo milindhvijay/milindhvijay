@@ -15,18 +15,13 @@
 
 - 📝 **Checkout a Beginner's Guide to WEB3 that I created: [WEB3](https://tangy-artichoke-dae.notion.site/Beginner-s-Guide-to-WEB3-194627c0b72b474d8248b18c1bb37fc0)**
 
-### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/milindhvijay#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/milindhvijay#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/milindhvijay#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/milindhvijay#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/milindhvijay#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/milindhvijay#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/discord.svg)](https://twitter.com/milindhvijay#gh-light-mode-only)
-[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />)](https://twitter.com/milindhvijay#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/milindhvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milindhvijay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milindhvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milindhvijay" height="30" width="40" /></a>
+<a href="https://instagram.com/milindhvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milindhvijay" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/eEyRA7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eEyRA7y" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
