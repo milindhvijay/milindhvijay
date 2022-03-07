@@ -27,13 +27,13 @@
 <p align="left">
 <a href="mailto:contact@milindhvijay.com" target="_blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-icon-mail-1008.png" alt="milindhvijay" width="35" /></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milindhvijay" width="32" /></a>
+<a href="https://linkedin.com/in/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Milindh Vijay" width="32" /></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milindhvijay" width="36" /></a>
+<a href="https://instagram.com/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Milindh Vijay" width="36" /></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milindhvijay" width="36" /></a>
+<a href="https://twitter.com/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Milindh Vijay" width="36" /></a>
 &nbsp;&nbsp;
-<a href="https://discordapp.com/users/480587416420483110" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eEyRA7y" width="36" /></a>
+<a href="https://discordapp.com/users/480587416420483110" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Milindh Vijay" width="36" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
@@ -85,8 +85,8 @@
 
 ### :zap: Recent Github Activity
 
-<p><img align="center" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> </p> 
+<p><img align="center" alt="Milindh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> </p> 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Milindh's Most Used Language" /></p>
 <br>
-<p align="left"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="milindh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
+<p align="left"><img alt="Milindh's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
