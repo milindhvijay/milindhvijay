@@ -81,7 +81,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="32" height="32"/> </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚡Github Stats</h3>
 <p align="left"> 
 <img align="center" widht="100%" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" />
