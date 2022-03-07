@@ -25,6 +25,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
+<a href="mailto:contact@milindhvijay.com" target="_blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-icon-mail-1008.png" alt="milindhvijay" width="32" /></a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milindhvijay" width="32" /></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milindhvijay" width="36" /></a>
