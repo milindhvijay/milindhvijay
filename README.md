@@ -87,7 +87,7 @@
 <br>
 <p><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" /></p>
 <br>
-<p align="center">
+<p align="left">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="milindh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/>
     </a>
