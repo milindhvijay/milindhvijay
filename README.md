@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/milindhvijay" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="milindhvijay" height="30" width="36" /></a>
+<a href="https://linkedin.com/in/milindhvijay" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1646637058~hmac=25bbc3e3237b18360935a6bcec40ebc9" alt="milindhvijay" height="30" width="36" /></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/milindhvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milindhvijay" height="30" width="36" /></a>
 &nbsp;&nbsp;
