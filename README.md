@@ -75,4 +75,5 @@
 
 ### :zap: Recent Github Activity
 
-<a><img align="center" widht="60%" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </a> <a><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" /></a>
+<p><img align="center" widht="60%" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </p> 
+<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" /></p>
