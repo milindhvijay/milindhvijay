@@ -25,13 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/milindhvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milindhvijay" width="32" /></a>
+<a href="https://linkedin.com/in/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milindhvijay" width="32" /></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/milindhvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milindhvijay" width="36" /></a>
+<a href="https://instagram.com/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milindhvijay" width="36" /></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/milindhvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milindhvijay" width="36" /></a>
+<a href="https://twitter.com/milindhvijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milindhvijay" width="36" /></a>
 &nbsp;&nbsp;
-<a href="https://discord.gg/https://discord.gg/eEyRA7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eEyRA7y" width="36" /></a>
+<a href="https://discord.gg/https://discord.gg/eEyRA7y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eEyRA7y" width="36" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
