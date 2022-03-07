@@ -75,10 +75,8 @@
 
 ### :zap: Recent Github Activity
 
-<p>&nbsp;<img align="left" alt="milindhvijay" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&locale=en&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<br>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindhvijay" /></p>
+<p><img align="left" alt="milindhvijay" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&locale=en&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindhvijay" /></p>
 
 
 
