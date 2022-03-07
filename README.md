@@ -11,6 +11,7 @@
 - 📝 Checkout a Beginner's Guide to WEB3 that I created: [WEB3](https://tangy-artichoke-dae.notion.site/Beginner-s-Guide-to-WEB3-194627c0b72b474d8248b18c1bb37fc0)
 
 ### Connect with me:
+[![website](./img/email.png)](mailto:contact@milindhvijay.com#gh-dark-mode-only)
 [![website](./img/twitter-light.svg)](https://twitter.milindhvijay#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/milindhvijay#gh-dark-mode-only)
 &nbsp;&nbsp;
