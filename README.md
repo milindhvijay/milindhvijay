@@ -83,6 +83,8 @@
 
 <h3 align="left">⚡Github Stats</h3>
 <p align="left"> 
-<img align="center" widht="100%" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" />
-<img align="center" width="100%" alt="milindh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
+<img align="center" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" />
+<br>
+<img align="center" alt="milindh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
