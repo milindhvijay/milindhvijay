@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milindh</h1>
 <h3 align="center">I'm a Developer and Network Enthusiast!</h3>
 
-- 💻 **I’m currently working on [a Wordle-Clone using ViteJS, Tailwind, Vitest and Zustand](https://github.com/milindhvijay/Wordle-Clone/tree/vitejs-version).**
-
-# Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -11,6 +8,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/milindhvijay/count.svg" />
 </p>
+
+- 💻 **I’m currently working on [a Wordle-Clone using ViteJS, Tailwind, Vitest and Zustand](https://github.com/milindhvijay/Wordle-Clone/tree/vitejs-version).**
 
 - 📚 **I’m currently learning for AWS - Developer Associate and CCNA.**
 
@@ -87,3 +86,9 @@
 <p><img align="center" widht="350" height="200" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </p> 
 <br>
 <p><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" /></p>
+<br>
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="milindh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/>
+    </a>
+</p>
