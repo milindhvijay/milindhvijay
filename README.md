@@ -3,6 +3,15 @@
 
 - 💻 **I’m currently working on [a Wordle-Clone using ViteJS, Tailwind, Vitest and Zustand](https://github.com/milindhvijay/Wordle-Clone/tree/vitejs-version).**
 
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/milindhvijay/count.svg" />
+</p>
+
 - 📚 **I’m currently learning for AWS - Developer Associate and CCNA.**
 
 - 🥅 **2022 Goals: Understand more about WEB3.**
