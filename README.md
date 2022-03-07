@@ -11,10 +11,11 @@
 - 📝 Checkout a Beginner's Guide to WEB3 that I created: [WEB3](https://tangy-artichoke-dae.notion.site/Beginner-s-Guide-to-WEB3-194627c0b72b474d8248b18c1bb37fc0)
 
 ### Connect with me:
-[![website](./img/email.png)](mailto:contact@milindhvijay.com)
+[![website](./img/twitter-light.svg)](https://twitter.milindhvijay#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/milindhvijay#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.milindhvijay)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/milindhvijay#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/milindhvijay#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/milindhvijay)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/milindhvijay)
+[![website](./img/instagram-light.svg)](https://instagram.com/milindhvijay#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/milindhvijay#gh-dark-mode-only)
