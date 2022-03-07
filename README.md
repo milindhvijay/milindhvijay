@@ -21,7 +21,7 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/milindhvijay#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/discord.svg)](https://twitter.com/milindhvijay#gh-light-mode-only)
-[![website](./img/discord.svg)](https://twitter.com/milindhvijay#gh-dark-mode-only)
+[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />)](https://twitter.com/milindhvijay#gh-dark-mode-only)
 
 ### Languages and Tools:
 
