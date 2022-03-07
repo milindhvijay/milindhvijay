@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Developer and Network Enthusiast!</h3>
 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
