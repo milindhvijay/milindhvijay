@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Developer and Network Enthusiast!</h3>
 
 
-<p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello world"></p>
+<p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -81,10 +81,10 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="32" height="32"/> </a> 
 </p>
 
-<h3 align="left">⚡Github Stats</h3>
-<p align="left"> 
-<img align="center" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### :zap: Recent Github Activity
+
+<p><img align="center" alt="milindh's github stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </p> 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="milindh" /></p>
 <br>
-<img align="center" alt="milindh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
+<p align="left"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="milindh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
