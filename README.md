@@ -83,8 +83,6 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="32" height="32"/> </a> 
 </p>
 
-<br />
-
 ---
 
 ### :zap: Recent Github Activity
