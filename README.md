@@ -104,3 +104,5 @@
 <p align="left"><img alt="Milindh's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
 
 </details>
+
+[![Spotify](https://novatorem-milindhvijay.vercel.app/api/spotify)](https://open.spotify.com/user/milindhvijay)
