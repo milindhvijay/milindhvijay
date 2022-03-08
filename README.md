@@ -86,7 +86,7 @@
 ---
 
 <details>
-  <summary><h3>:zap: Recent GitHub Activity</h3></summary>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
