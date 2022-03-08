@@ -85,12 +85,20 @@
 
 ---
 
-### :zap: Recent Github Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
 <p><img align="center" alt="Milindh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> </p> 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Milindh's Most Used Language" /></p>
 <br>
 <p align="left"><img alt="Milindh's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
+
+</details>
