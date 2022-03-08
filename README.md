@@ -86,14 +86,14 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary><b>:zap: Recent GitHub Activity</b></summary>
 
 <!--START_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary><h3>:zap: GitHub Stats</h3></summary>
+  <summary><strong>:zap: GitHub Stats</strong></summary>
 
 <p><img align="center" alt="Milindh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> </p> 
 <br>
