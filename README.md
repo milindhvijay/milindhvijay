@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/milindhvijay/count.svg" />
 </p>
 
-- 💻 **I’m currently working on [a Wordle-Clone using ViteJS, Tailwind, Vitest and Zustand](https://github.com/milindhvijay/Wordle-Clone/tree/vitejs-version).**
+- 💻 **I’m currently working on [a Wordle-Solver using SeleniumBase](https://github.com/milindhvijay/Wordle-Solver-Using-SeleniumBase).**
 
 - 📚 **I’m currently learning for AWS - Developer Associate and CCNA.**
 
