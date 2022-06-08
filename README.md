@@ -92,10 +92,9 @@
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   <br>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/milindhvijay/UTrackBot/pull/1) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
-2. 💪 Opened PR [#1](https://github.com/milindhvijay/UTrackBot/pull/1) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 </details>
 
