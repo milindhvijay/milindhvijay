@@ -93,11 +93,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [loettz/interview-process-survival](https://github.com/loettz/interview-process-survival)
-2. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-3. 🔱 Forked [milindhvijay/Airline-Management-System](https://github.com/milindhvijay/Airline-Management-System) from [Sumanth-Talluri/Airline-Management-System](https://github.com/Sumanth-Talluri/Airline-Management-System)
-4. ⭐ Starred [milindhvijay/milindhvijay](https://github.com/milindhvijay/milindhvijay)
-5. 📔 Created new repository [milindhvijay/Wordle-Solver-Using-SeleniumBase](https://github.com/milindhvijay/Wordle-Solver-Using-SeleniumBase)
+1. ⭐ Starred [aathma2071/QMK-on-K2V2](https://github.com/aathma2071/QMK-on-K2V2)
+2. ⭐ Starred [loettz/interview-process-survival](https://github.com/loettz/interview-process-survival)
+3. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+4. 🔱 Forked [milindhvijay/Airline-Management-System](https://github.com/milindhvijay/Airline-Management-System) from [Sumanth-Talluri/Airline-Management-System](https://github.com/Sumanth-Talluri/Airline-Management-System)
+5. ⭐ Starred [milindhvijay/milindhvijay](https://github.com/milindhvijay/milindhvijay)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
