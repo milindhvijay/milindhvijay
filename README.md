@@ -97,7 +97,6 @@
 2. ⭐ Starred [loettz/interview-process-survival](https://github.com/loettz/interview-process-survival)
 3. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 4. 🔱 Forked [milindhvijay/Airline-Management-System](https://github.com/milindhvijay/Airline-Management-System) from [Sumanth-Talluri/Airline-Management-System](https://github.com/Sumanth-Talluri/Airline-Management-System)
-5. ⭐ Starred [milindhvijay/milindhvijay](https://github.com/milindhvijay/milindhvijay)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
