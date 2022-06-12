@@ -96,7 +96,6 @@
 1. ⭐ Starred [aathma2071/QMK-on-K2V2](https://github.com/aathma2071/QMK-on-K2V2)
 2. ⭐ Starred [loettz/interview-process-survival](https://github.com/loettz/interview-process-survival)
 3. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-4. 🔱 Forked [milindhvijay/Airline-Management-System](https://github.com/milindhvijay/Airline-Management-System) from [Sumanth-Talluri/Airline-Management-System](https://github.com/Sumanth-Talluri/Airline-Management-System)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
