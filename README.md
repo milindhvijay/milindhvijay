@@ -11,7 +11,7 @@
 
 - 💻 **I’m currently working on ___**
 
-- 📚 **I’m currently learning for AWS - Developer Associate and CCNA.**
+- 📚 **I’m currently learning for CompTIA Network+ (N10-008), CCNA (200-301) & AWS - Developer Associate (DVA-C01).**
 
 - 🥅 **2022 Goals: Understand more about WEB3.**
 
