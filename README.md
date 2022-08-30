@@ -93,7 +93,8 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aathma2071/QMK-on-K2V2](https://github.com/aathma2071/QMK-on-K2V2)
+1. ⭐ Starred [BrianRuizy/leetcode-notion](https://github.com/BrianRuizy/leetcode-notion)
+2. ⭐ Starred [aathma2071/QMK-on-K2V2](https://github.com/aathma2071/QMK-on-K2V2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
