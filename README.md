@@ -96,7 +96,6 @@
 1. 🎉 Merged PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
 2. 💪 Opened PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
 3. ⭐ Starred [BrianRuizy/leetcode-notion](https://github.com/BrianRuizy/leetcode-notion)
-4. ⭐ Starred [aathma2071/QMK-on-K2V2](https://github.com/aathma2071/QMK-on-K2V2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
