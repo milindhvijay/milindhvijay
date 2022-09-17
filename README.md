@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/milindhvijay/count.svg" />
 </p>
 
-- 💻 **I’m currently working on ___**
+- 💻 **I’m currently working on: [a telegram bot that tracks your shipments and send you updates.](https://github.com/milindhvijay/UTrackBot)**
 
 - 📚 **I’m currently learning for CompTIA Network+ (N10-008), CCNA (200-301) & AWS - Developer Associate (DVA-C01).**
 
@@ -94,7 +94,9 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aathma2071/QMK-on-K2V2](https://github.com/aathma2071/QMK-on-K2V2)
+1. 🎉 Merged PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
+2. 💪 Opened PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
+3. ⭐ Starred [BrianRuizy/leetcode-notion](https://github.com/BrianRuizy/leetcode-notion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
@@ -106,6 +108,7 @@
 <p><img align="center" alt="Milindh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> </p> 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Milindh's Most Used Language" /></p>
+<i><b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 <br>
 <p align="left"><img alt="Milindh's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milindhvijay&theme=highcontrast&hide_border=true&stroke=0000&background=09131B"/></p>
 
