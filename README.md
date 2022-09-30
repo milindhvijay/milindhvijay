@@ -94,9 +94,10 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
-2. 💪 Opened PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
-3. ⭐ Starred [BrianRuizy/leetcode-notion](https://github.com/BrianRuizy/leetcode-notion)
+1. ⭐ Starred [Lakshay-Sood/YouTube-Playlist-Downloader](https://github.com/Lakshay-Sood/YouTube-Playlist-Downloader)
+2. 🎉 Merged PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
+3. 💪 Opened PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
+4. ⭐ Starred [BrianRuizy/leetcode-notion](https://github.com/BrianRuizy/leetcode-notion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
