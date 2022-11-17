@@ -94,11 +94,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [itsmostafa/certified-aws-developer-associate-notes](https://github.com/itsmostafa/certified-aws-developer-associate-notes)
-2. 📔 Created new repository [milindhvijay/test](https://github.com/milindhvijay/test)
-3. ⭐ Starred [pal1000/Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
-4. ⭐ Starred [Lakshay-Sood/YouTube-Playlist-Downloader](https://github.com/Lakshay-Sood/YouTube-Playlist-Downloader)
-5. 🎉 Merged PR [#2](https://github.com/milindhvijay/UTrackBot/pull/2) in [milindhvijay/UTrackBot](https://github.com/milindhvijay/UTrackBot)
+1. ⭐ Starred [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships)
+2. ⭐ Starred [itsmostafa/certified-aws-developer-associate-notes](https://github.com/itsmostafa/certified-aws-developer-associate-notes)
+3. 📔 Created new repository [milindhvijay/test](https://github.com/milindhvijay/test)
+4. ⭐ Starred [pal1000/Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
+5. ⭐ Starred [Lakshay-Sood/YouTube-Playlist-Downloader](https://github.com/Lakshay-Sood/YouTube-Playlist-Downloader)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
