@@ -11,7 +11,7 @@
 
 - 💻 **I’m currently working on: [a telegram bot that tracks your shipments and send you updates.](https://github.com/milindhvijay/UTrackBot)**
 
-- 📚 **I’m currently learning for CompTIA Network+ (N10-008), CCNA (200-301) & AWS - Developer Associate (DVA-C01).**
+- 📚 **I’m currently learning for CompTIA Network+ (N10-008) & CCNA (200-301).**
 
 - 🥅 **2022 Goals: Understand more about WEB3.**
 
@@ -22,6 +22,8 @@
 - ⚡ **Fun Fact: I love talking about crypto and NFTs.**
 
 - 📝 **Checkout a Beginner's Guide to WEB3 that I created: [WEB3](https://tangy-artichoke-dae.notion.site/Beginner-s-Guide-to-WEB3-194627c0b72b474d8248b18c1bb37fc0)**
+
+- 📜 **Certifications: AWS Certified Developer - Associate.**
 
 ### Spotify Now Playing!
 
