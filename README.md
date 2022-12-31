@@ -100,7 +100,6 @@
 2. ⭐ Starred [itsmostafa/certified-aws-developer-associate-notes](https://github.com/itsmostafa/certified-aws-developer-associate-notes)
 3. 📔 Created new repository [milindhvijay/test](https://github.com/milindhvijay/test)
 4. ⭐ Starred [pal1000/Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
-5. ⭐ Starred [Lakshay-Sood/YouTube-Playlist-Downloader](https://github.com/Lakshay-Sood/YouTube-Playlist-Downloader)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
