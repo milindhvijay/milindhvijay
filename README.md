@@ -98,7 +98,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships)
 2. ⭐ Starred [itsmostafa/certified-aws-developer-associate-notes](https://github.com/itsmostafa/certified-aws-developer-associate-notes)
-3. 📔 Created new repository [milindhvijay/test](https://github.com/milindhvijay/test)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
