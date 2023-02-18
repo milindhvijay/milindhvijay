@@ -96,7 +96,6 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
