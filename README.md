@@ -11,11 +11,9 @@
 
 - 💻 **I’m currently working on an app for macOS that can set wallpapers from Unsplash**
 
-- 📚 **I’m currently learning for CompTIA Network+ (N10-008) & CCNA (200-301).**
+- 🥅 **2023 Goals: Learn and master IPv6 networking.**
 
-- 🥅 **2022 Goals: Understand more about WEB3.**
-
-- 💬 **Ask me about anything, I'm happy to help. 🙂**
+- 💬 **Ask me anything about development, networks, linux, etc. I'm happy to help. 🙂**
 
 - ⌚ **Hobbies: Building and modding mechanical keyboards.**
 
