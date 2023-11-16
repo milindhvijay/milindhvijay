@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/milindhvijay/count.svg" />
 </p>
 
-- 💻 **I’m currently working on: an app for macOS that can set wallpapers from Unsplash**
+- 💻 **I’m currently working on an app for macOS that can set wallpapers from Unsplash**
 
 - 📚 **I’m currently learning for CompTIA Network+ (N10-008) & CCNA (200-301).**
 
