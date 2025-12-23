@@ -16,9 +16,9 @@
 
 ### Let's connect
 
-[![Email](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:milindhvijay@voidstack.tech)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/milindhvijay)
-[![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/milindhvijay)
+<a href="mailto:milindhvijay@voidstack.tech" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
+<a href="https://linkedin.com/in/milindhvijay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+<a href="https://x.com/milindhvijay" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" /></a>
 
 ---
 
