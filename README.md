@@ -1,4 +1,4 @@
-# Hey, I'm Milindh 👋
+### Hi there <a href="https://blog.milindhvijay.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 
 **Software Developer** · Building tools for macOS & the web · Networking enthusiast
 
@@ -6,24 +6,26 @@
 
 ### What I'm up to
 
-- 🔧 Building native macOS apps with Swift
-- 🌐 Exploring network security, DNS infrastructure & home lab setups
-- ✍️ Writing about reverse engineering and software quirks on my [blog](https://blog.milindhvijay.com)
+- 🔧 &nbsp;Building native macOS apps with Swift
+- 🌐 &nbsp;Exploring network security, DNS infrastructure & home lab setups
+- ✍️ &nbsp;Writing about reverse engineering and software quirks on my [blog](https://blog.milindhvijay.com)
+- 📜 &nbsp;**Certification:** AWS Certified Developer – Associate
 
-### Certifications
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- AWS Certified Developer – Associate
-
-### Let's connect
-
-<a href="mailto:milindhvijay@voidstack.tech" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
-<a href="https://linkedin.com/in/milindhvijay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
-<a href="https://x.com/milindhvijay" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" /></a>
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="mailto:milindhvijay@voidstack.tech"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milindhvijay"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://x.com/milindhvijay"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a>
+</p>
 
 ---
 
 <details>
-<summary><strong>GitHub Stats</strong></summary>
+<summary><b>📈 GitHub Stats</b></summary>
 <br>
 
 <p><img align="center" alt="Milindh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9" /></p>
