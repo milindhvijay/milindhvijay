@@ -16,7 +16,9 @@
 
 ### Let's connect
 
-[Email](mailto:milindhvijay@voidstack.tech) · [LinkedIn](https://linkedin.com/in/milindhvijay) · [Twitter](https://x.com/milindhvijay)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:milindhvijay@voidstack.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/milindhvijay)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/milindhvijay)
 
 ---
 
