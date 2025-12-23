@@ -2,24 +2,15 @@
 <h3 align="center">I'm a Developer and Network Enthusiast!</h3>
 
 
-<p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/milindhvijay/count.svg" />
-</p>
-
 - 💻 **I’m currently working on an app for macOS that can set wallpapers from Unsplash**
 
-- 🥅 **2023 Goals: Learn and master IPv6 networking.**
+
 
 - 💬 **Ask me anything about development, networks, linux, etc. I'm happy to help. 🙂**
 
 - ⌚ **Hobbies: Building and modding mechanical keyboards.**
 
-- ⚡ **Fun Fact: I love talking about crypto and NFTs.**
 
-- 📝 **Checkout a Beginner's Guide to WEB3 that I created: [WEB3](https://tangy-artichoke-dae.notion.site/Beginner-s-Guide-to-WEB3-194627c0b72b474d8248b18c1bb37fc0)**
 
 - 📜 **Certifications: AWS Certified Developer - Associate.**
 
