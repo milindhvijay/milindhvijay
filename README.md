@@ -28,6 +28,7 @@
 
 ### 📈 GitHub Stats
 
-<p><img align="center" alt="Milindh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=milindhvijay&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9" /></p>
+<p><img align="center" alt="Milindh's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milindhvijay&theme=github_dark" /></p>
 
-<p><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindhvijay&layout=compact&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=c9d1d9" /></p>
+<p><img align="center" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milindhvijay&theme=github_dark" /></p>
+
